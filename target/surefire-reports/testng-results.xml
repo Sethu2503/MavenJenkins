@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser is opened]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-05-23T14:48:25Z" name="SeleniumStudy" finished-at="2021-05-23T14:48:30Z" duration-ms="4561">
+    <groups>
+    </groups>
+    <test started-at="2021-05-23T14:48:25Z" name="TestNGLearn" finished-at="2021-05-23T14:48:30Z" duration-ms="4561">
+      <class name="com.selenium.Seleniumwithjenkins">
+        <test-method signature="TitleCheck()[pri:0, instance:com.selenium.Seleniumwithjenkins@3bf7ca37]" started-at="2021-05-23T20:18:25Z" name="TitleCheck" description="TestSummary" finished-at="2021-05-23T20:18:30Z" duration-ms="4540" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TitleCheck -->
+      </class> <!-- com.selenium.Seleniumwithjenkins -->
+    </test> <!-- TestNGLearn -->
+  </suite> <!-- SeleniumStudy -->
+</testng-results>
