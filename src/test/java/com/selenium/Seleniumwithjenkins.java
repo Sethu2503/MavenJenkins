@@ -15,7 +15,7 @@ public class Seleniumwithjenkins {
 
     @Test(description = "TestSummary")
     public void TitleCheck() {
-        System.setProperty("webdriver.chrome.driver", "D:\\Programming\\SeleniumGitwithJenkins\\lib\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "lib\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         Reporter.log("Browser is opened");
         driver.get("https://www.amazon.in/");
